@@ -1,0 +1,5 @@
+# Ignorar la carpeta de entorno virtual
+virtual/
+
+# Ignorar todas las carpetas de migraciones
+**/migrations/
